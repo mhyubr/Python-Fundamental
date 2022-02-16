@@ -12,13 +12,13 @@ class mahasiswa():
 # main program
 
 ayyub = mahasiswa()
-otong = mahasiswa()
+asep = mahasiswa()
 
 ayyub.nama = 'Muhammad Ayyub Ramli'
-otong.nama = 'michael otong'
+asep.nama = 'michael asep'
 
 print(ayyub.nama)
-print(otong.nama)
+print(asep.nama)
 
 ayyub.belajar('dengan giat') # method
-otong.tidur() # method
+asep.tidur() # method
